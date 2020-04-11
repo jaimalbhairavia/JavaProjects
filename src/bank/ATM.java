@@ -19,5 +19,8 @@ public class ATM {
         aUser.addAccount(acnt);
         newBank.addAccount(acnt);
 
+        Users currentUser;
+
+
     }
 }
